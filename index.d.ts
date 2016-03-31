@@ -1,3 +1,3 @@
-declare function pathIsAbsolute(string): boolean;
+declare function pathIsAbsolute(path: string): boolean;
 
 export = pathIsAbsolute;
