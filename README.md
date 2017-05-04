@@ -1,4 +1,6 @@
 # Typed Path Is Absolute
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-path-is-absolute.svg)](https://greenkeeper.io/)
 The type definition for [`path-is-absolute`](https://github.com/sindresorhus/path-is-absolute)
 
 ## LICENSE
